@@ -2,7 +2,7 @@ let wordList = [
 
     {
         word : "star",
-        Hint : "You are a gay "
+        Hint : "A Space related thing"
     },
     {
         word : "Idea",
@@ -22,7 +22,27 @@ let wordList = [
     },
     {
         word : "search",
-        Hint : "Acr to find something"
+        Hint : "Act to find something"
+    },
+    {
+        word : "guiter",
+        Hint : "A musical instrument"
+    },
+    {
+        word : "aim",
+        Hint : "A purpose or intension"
+    },
+    {
+        word : "instagram",
+        Hint : "A social media name"
+    },
+    {
+        word : "memes",
+        Hint : "that makes other happy"
+    },
+    {
+        word : "gold",
+        Hint : "A yellow precious metal"
     },
 
 
